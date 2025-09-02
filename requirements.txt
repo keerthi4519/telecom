@@ -6,3 +6,4 @@ scikit-learn
 joblib
 scipy
 sqlite3
+sklearn
