@@ -1,2 +1,8 @@
 streamlit 
 plotly
+numpy
+pandas
+scikit-learn
+joblib
+scipy
+sqlite3
